@@ -1,6 +1,6 @@
 release 'Jenkins', {
-  plannedEndDate = '2024-06-08T11:51'
-  plannedStartDate = '2024-05-14T11:51'
+  plannedEndDate = '2024-06-08'
+  plannedStartDate = '2024-05-14'
   projectName = 'Proyecto_cloudbees'
 
   pipeline 'pipeline_Jenkins', {
